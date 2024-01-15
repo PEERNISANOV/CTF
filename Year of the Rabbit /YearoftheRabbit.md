@@ -162,7 +162,7 @@ After all, we want to be root and not a regular user,
 <br>
 So I made this short, but I'll explain you this stages step by step:
 <br><br>
-<img align="center" src="Images/18.png">
+<img align="center" src="Images/19.png">
 <br><br><br>
 
 I've divided the picture to four different squeres, one after one:
