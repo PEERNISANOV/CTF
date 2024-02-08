@@ -103,7 +103,7 @@ Then I unshadowed them to a one file and user JTR in order to reveal the passwor
 <img align="center" src="Images/14.png">
 <br><br><br>
 
-##Being Root👑:
+## Being Root👑:
 I switched the user to Vianka and start looking for privilage escalation vectors again.
 <br><br>
 <img align="center" src="Images/15.png">
