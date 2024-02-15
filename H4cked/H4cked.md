@@ -1,4 +1,4 @@
-# Welcome to my "Lian_Yu" CTF walkthorugh ⛰️!
+# Welcome to my "H4cked" CTF walkthorugh 💻!
 You can find this CTF and many more on https://tryhackme.com/
 
 ## Self note:
